@@ -524,7 +524,7 @@
                 <div class="photo-frame">
                     <div class="photo-placeholder">
                         <i class="fas fa-user"></i>
-                        <span style="font-size: 10px;">35mm x 45mm</span>
+                        <span style="font-size: 10px;"><img src="#"/></span>
                     </div>
                 </div>
                 <div class="header-info">
